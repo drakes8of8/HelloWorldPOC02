@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Samples\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Samples\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Samples\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Samples\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Samples\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
